@@ -7,3 +7,58 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 - [Scrum questions](./modules/Scrum/40-questions-about-Scrum.docx)  
 - [DevOps](./modules/DevOps/  )
 
+## Week 2 - VCS & Linux
+## VCS Labs
+### Day 1: Git Basics
+- [1.1 - Introduction to Git CLI](./modules/vcs/labs/1.1-intro-git-cli.md)
+- [1.2 - Introduction to GitHub](./modules/vcs/labs/1.2-intro-github.md)
+- [1.3 - Push, Pull, and Conflict Resolution](./modules/vcs/labs/1.3-push-pull-conflict.md)
+- [1.4 - Essential Git Commands](./modules/vcs/labs/1.4-essential-commands.md)
+
+### Day 2: Git Workflows
+- [2.1 - VCS in Visual Studio](./modules/vcs/labs/2.1-vcs-visual-studio.md)
+- [2.2 - Branching and Pull Requests](./modules/vcs/labs/2.2-branching-pr.md)
+- [2.3 - Tags and Releases](./modules/vcs/labs/2.3-tags-releases.md)
+- [2.4 - Collaborators](./modules/vcs/labs/2.4-collaborators.md)
+- [2.5 - Repository Settings](./modules/vcs/labs/2.5-repo-settings.md)
+
+### Day 3: Advanced GitHub
+- [3.1 - Branch Protection](./modules/vcs/labs/3.1-branch-protection.md)
+- [3.2 - Forks](./modules/vcs/labs/3.2-forks.md)
+- [3.3 - Organizations and Teams](./modules/vcs/labs/3.3-orgs-teams.md)
+- [3.4 - Workflows](./modules/vcs/labs/3.4-workflows.md)
+
+## Linux Labs
+
+### Day 1: File System Basics
+- [1.0 - Connect to VM](./modules/linux/labs/1.0-connect-to-vm.md)
+- [1.1 - File Navigation](./modules/linux/labs/1.1-file-navigation.md)
+- [1.2 - File Details](./modules/linux/labs/1.2-file-details.md)
+- [1.3 - File Processing and Compression](./modules/linux/labs/1.3-file-processing-compression.md)
+- [1.4 - File Processing Challenge](./modules/linux/labs/1.4-file-processing-challenge.md)
+
+### Day 2: System Monitoring and Process Management
+- [2.1 - Editing Files](./modules/linux/labs/2.1-editing-files.md)
+- [2.2 - System Monitoring](./modules/linux/labs/2.2-system-monitoring.md)
+- [2.3 - Linux Jobs](./modules/linux/labs/2.3-linux-jobs.md)
+- [2.3 - Process Management](./modules/linux/labs/2.3-process-management.md)
+- [2.4 - Operators](./modules/linux/labs/2.4-operators.md)
+- [2.5 - Monitoring Challenge](./modules/linux/labs/2.5-monitoring-challenge.md)
+
+### Day 3: Scripting and Permissions
+- [3.1 - Scripting Basics](./modules/linux/labs/3.1-Scripting-Basics.md)
+- [3.2 - Users, Groups, and Permissions](./modules/linux/labs/3.2-users-groups-permissions.md)
+- [3.3 - Finding Files](./modules/linux/labs/3.3-finding-files.md)
+- [3.4 - Find, Scripting, and User Challenge](./modules/linux/labs/3.4-find-scripting-user-challenge.md)
+
+### Day 4: System Administration
+- [4.1 - Package Management](./modules/linux/labs/4.1-package-management.md)
+- [4.2 - Networking](./modules/linux/labs/4.2-networking.md)
+- [4.3 - Service Management](./modules/linux/labs/4.3-service-management.md)
+- [4.4 - Disk Management](./modules/linux/labs/4.4-disk-management.md)
+
+### Day 5: Advanced Configuration
+- [5.1 - Common Configurations](./modules/linux/labs/5.1-common-configurations.md)
+- [5.2 - Scheduling](./modules/linux/labs/5.2-scheduling.md)
+- [5.3 - SELinux Basics](./modules/linux/labs/5.3-selinux-basics.md)
+- [5.4 - System Administration Tool](./modules/linux/labs/5.4-sys-admin-tool.md)
