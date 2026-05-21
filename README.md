@@ -62,3 +62,30 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 - [5.2 - Scheduling](./modules/linux/labs/5.2-scheduling.md)
 - [5.3 - SELinux Basics](./modules/linux/labs/5.3-selinux-basics.md)
 - [5.4 - System Administration Tool](./modules/linux/labs/5.4-sys-admin-tool.md)
+
+##  Network Fundamentals Labs
+
+### Day 1: Networking Basics and IP Addressing
+- [1.0 - Cisco Packet Tracer Installation and Discovery](./modules/networking-fundamentals/labs/1.0-cisco-packet-tracer-install.md)
+- [1.1 - Networking Fundamentals with Cisco Packet Tracer](./modules/networking-fundamentals/labs/1.1-networking-fundamentals-cisco.md)
+- [1.2 - IP Addressing and Subnet Planning Using VLSM](./modules/networking-fundamentals/labs/1.2-vlsm-address-design.md)
+- [1.3 - IPv6 Configuration](./modules/networking-fundamentals/labs/1.3-ipv6-configuration.md)
+
+### Day 2: Network Services and Security
+- [2.1 - DHCP, DNS & NAT/PAT](./modules/networking-fundamentals/labs/2.1-dhcp-dns-nat.md)
+- [2.2 - ACL & Wireless Security](./modules/networking-fundamentals/labs/2.2-acl-wireless-security.md)
+- [2.3 - Comprehensive Troubleshooting Scenario](./modules/networking-fundamentals/labs/2.3-troubleshooting.md)
+
+### Day 3: Network Diagnostics and Design
+- [3.1 - Network Diagnostics & Verification](./modules/networking-fundamentals/labs/3.1-network-diagnostics-practice.md)
+- [3.2 - Build & Verify a Complete Small Office Network](./modules/networking-fundamentals/labs/3.2-build-complete-small-network.md)
+
+### Day 4: Network Security
+- [4.1 - L2 Attack & Defence Simulation](./modules/networking-fundamentals/labs/4.1-l2-attack-defence.md)
+- [4.2 - ACL-Based Firewall Rules & DMZ Design](./modules/networking-fundamentals/labs/4.2-acl-firewall-dmz.md)
+- [4.3 - Standard & Extended ACLs: Multi-Department Access Control](./modules/networking-fundamentals/labs/4.3-acl-multi-department.md)
+
+### Day 5: Routing Protocols and Capstone
+- [5.1 - Multi-Router Static Routing](./modules/networking-fundamentals/labs/5.1-multi-router-static-routing.md)
+- [5.2 - OSPF Single-Area Configuration](./modules/networking-fundamentals/labs/5.2-ospf-single-area.md)
+- [5.3 - Full Network Capstone](./modules/networking-fundamentals/labs/5.3-full-network-capstone.md)
