@@ -63,7 +63,7 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 - [5.3 - SELinux Basics](./modules/linux/labs/5.3-selinux-basics.md)
 - [5.4 - System Administration Tool](./modules/linux/labs/5.4-sys-admin-tool.md)
 
-##  Network Fundamentals Labs
+## Week 3 - Network Fundamentals Labs
 
 ### Day 1: Networking Basics and IP Addressing
 - [1.0 - Cisco Packet Tracer Installation and Discovery](./modules/networking-fundamentals/labs/1.0-cisco-packet-tracer-install.md)
