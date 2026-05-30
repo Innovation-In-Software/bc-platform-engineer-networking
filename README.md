@@ -89,3 +89,36 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 - [5.1 - Multi-Router Static Routing](./modules/networking-fundamentals/labs/5.1-multi-router-static-routing.md)
 - [5.2 - OSPF Single-Area Configuration](./modules/networking-fundamentals/labs/5.2-ospf-single-area.md)
 - [5.3 - Full Network Capstone](./modules/networking-fundamentals/labs/5.3-full-network-capstone.md)
+
+## Week 3 - IaC
+## Terraform Labs
+
+### Day 1: Terraform Basics
+- [1.0 - Terraform Setup](./modules/terraform/labs/1.0-terraform-setup.md)
+- [1.1 - Terraform First Instance](./modules/terraform/labs/1.1-terraform-first-instance.md)
+- [1.2 - Terraform Variables](./modules/terraform/labs/1.2-terraform-variables.md)
+- [1.3 - Terraform Working with Variables](./modules/terraform/labs/1.3-terraform-working-with-variables.md)
+- [1.4 - Terraform More Variables](./modules/terraform/labs/1.4-terraform-more-variables.md)
+
+### Day 2: Terraform Intermediate
+- [2.1 - Terraform Backends](./modules/terraform/labs/2.1-terraform-backends.md)
+- [2.2 - Terraform Data](./modules/terraform/labs/2.2-terraform-data.md)
+- [2.3 - Terraform Modules](./modules/terraform/labs/2.3-terraform-modules.md)
+
+### Day 3: Terraform Advanced
+- [3.1 - Terraform Resource Dependency](./modules/terraform/labs/3.1-terraform-resource-dependency.md)
+- [3.2 - Terraform Workspaces and tfvars](./modules/terraform/labs/3.2-terraform-workspaces-tfvars.md)
+- [3.3 - Terraform Functions](./modules/terraform/labs/3.3-terraform-functions.md)
+- [3.4 - Terraform Drift Fix](./modules/terraform/labs/3.4-terraform-drift-fix.md)
+
+### Day 4: Terraform HCP
+- [4.1 - Terraform HCP Cloud](./modules/terraform/labs/4.1-terraform-hcp-cloud.md)
+- [4.2 - Terraform HCP Modify](./modules/terraform/labs/4.2-terraform-hcp-modify.md)
+- [4.3 - Terraform HCP Module](./modules/terraform/labs/4.3-terraform-hcp-module.md)
+- [4.4 - Terraform Health Drift Detection](./modules/terraform/labs/4.4-terraform-health-drift-detection.md)
+
+### Day 5: Terraform Testing
+- [5.1 - Terraform Unit Testing](./modules/terraform/labs/5.1-terraform-unit-testing.md)
+- [5.2 - Terraform Integration Testing](./modules/terraform/labs/5.2-terraform-integration-testing.md)
+- [5.3 - Terraform Challenge](./modules/terraform/labs/5.3-terraform-challange.md)
+
