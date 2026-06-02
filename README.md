@@ -2,6 +2,8 @@
 
 This repository contains the files for the Platform Engineer Networking bootcamp.
 
+[Lab credentials](https://docs.google.com/spreadsheets/d/10S9G98D8UuM9-ZknnotvbWZYqDdeStlLzSvzWspbPsM/edit?usp=sharing)
+
 ## Week 1 - Scrum & DevOps  
 - [Scrum slides](./modules/Scrum/Basic-Scrum.pdf)  
 - [Scrum questions](./modules/Scrum/40-questions-about-Scrum.docx)  
