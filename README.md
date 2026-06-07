@@ -92,7 +92,37 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 - [5.2 - OSPF Single-Area Configuration](./modules/networking-fundamentals/labs/5.2-ospf-single-area.md)
 - [5.3 - Full Network Capstone](./modules/networking-fundamentals/labs/5.3-full-network-capstone.md)
 
-## Week 3 - IaC
+## Week 4 - Routing and Switching Essentials Labs
+
+### Day 1: VLANs and Layer 2 Switching
+- [1.1 - VLANs and Trunking](./modules/routing-switching-essentials/labs/1.1-vlans-trunking.md)
+- [1.2 - Inter-VLAN Routing (Router-on-a-Stick)](./modules/routing-switching-essentials/labs/1.2-inter-vlan-routing.md)
+- [1.3 - Spanning Tree Protocol and EtherChannel](./modules/routing-switching-essentials/labs/1.3-stp-etherchannel.md)
+- [1.4 - VLAN Security and Best Practices](./modules/routing-switching-essentials/labs/1.4-vlan-security-best-practices.md)
+
+### Day 2: Layer 3 Switching and Redundancy
+- [2.1 - Inter-VLAN Routing with a Multilayer Switch (SVIs)](./modules/routing-switching-essentials/labs/2.1-intervlan-routing-svis.md)
+- [2.2 - First-Hop Redundancy with HSRP](./modules/routing-switching-essentials/labs/2.2-hsrp.md)
+- [2.3 - VLAN and Trunk Troubleshooting Scenario](./modules/routing-switching-essentials/labs/2.3-vlan-and-trunking-troubleshooting.md)
+- [2.4 - Two-Site Office Network: VLANs, HSRP & OSPF](./modules/routing-switching-essentials/labs/2.4-two-site-hsrp-ospf.md)
+
+### Day 3: AWS Networking Fundamentals
+- [3.0 - Getting Started with AWS: EC2 Instances and AWS Console](./modules/routing-switching-essentials/labs/3.0-aws-ec2-introduction.md)
+- [3.1 - Building a VPC Architecture in AWS](./modules/routing-switching-essentials/labs/3.1-building-vpc-architecture-aws.md)
+- [3.2 - Understanding and Configuring AWS Security Groups](./modules/routing-switching-essentials/labs/3.2-aws-security-groups.md)
+- [3.3 - AWS Network ACLs (NACLs)](./modules/routing-switching-essentials/labs/3.3-aws-network-acls.md)
+
+### Day 4: AWS DNS and Load Balancing
+- [4.1 - Configuring DNS with Amazon Route 53](./modules/routing-switching-essentials/labs/4.1-dns-configuration-route53.md)
+- [4.2 - Building a Load-Balanced Web Tier](./modules/routing-switching-essentials/labs/4.2-load-balanced-web-tier.md)
+- [4.3 - VPC Peering and Hybrid Connectivity](./modules/routing-switching-essentials/labs/4.3-vpc-peering-hybrid-connectivity.md)
+
+### Day 5: AWS High Availability and Troubleshooting
+- [5.1 - Multi-AZ High Availability Web Application](./modules/routing-switching-essentials/labs/5.1-multi-az-high-availability-web-application.md)
+- [5.2 - VPN Failover and CloudWatch Monitoring](./modules/routing-switching-essentials/labs/5.2-vpn-failover-cloudwatch-monitoring.md)
+- [5.3 - Troubleshooting Common VPC Issues](./modules/routing-switching-essentials/labs/5.3-troubleshooting-broken-vpc.md)
+
+## Week 6 - IaC
 ## Terraform Labs
 
 ### Day 1: Terraform Basics
