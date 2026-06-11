@@ -154,3 +154,32 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 - [5.2 - Terraform Integration Testing](./modules/terraform/labs/5.2-terraform-integration-testing.md)
 - [5.3 - Terraform Challenge](./modules/terraform/labs/5.3-terraform-challange.md)
 
+## Week 7 - Ansible 
+## Ansible Labs
+
+### Day 1
+- [1.0 - Connect to Ansible Controller](./modules/ansible/labs/setup/index.md)
+- [1.1 - Ansible inventory](./modules/ansible/labs/inventory)
+- [1.2 - Ansible ad-hoc](./modules/ansible/labs/ad-hoc)
+- [1.3 - Ansible playbook fundamentals](./modules/ansible/labs/playbook-fun)
+
+### Day 2
+- [2.1 - Ansible Variables](./modules/ansible/labs/vars/index.md)
+- [2.2 - Ansible Roles](./modules/ansible/labs/roles/roles_intro.md)
+- [2.3 - Delegate Tasks](./modules/ansible/labs/delegate/index.md)
+- [2.4 - AAP Inventory and Credentials](./modules/ansible/labs/aap-inventory-creds-ad-hoc/index_shared.md)
+
+### Day 3
+- [3.1 - AAP Projects and Jobs](./modules/ansible/labs/aap-projects-templates-jobs/index_shared.md)
+- [3.2 - Ansible Playbook Error Handling](./modules/ansible/labs/error-handling/index.md)
+- [3.3 - Ansible Templates](./modules/ansible/labs/templates/index.md)
+
+### Day 4
+- [4.1 - Ansible Surveys](./modules/ansible/labs/aap-surveys/index.md)
+- [4.2 - Ansible Vault](./modules/ansible/labs/ansible-vault/vault_intro.md)
+- [4.3 - RBAC](./modules/ansible/labs/aap-rbac/index.md)
+- [4.4 - AAP Workflows](./modules/ansible/labs/aap-workflows/index.md)
+- [4.5 - Develop an Ansible module](./modules/ansible/labs/gh_module/index.md)
+
+### Day 5
+- [Ansible Bonus labs](./modules/ansible/labs/bonus)
