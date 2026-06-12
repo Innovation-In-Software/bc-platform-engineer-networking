@@ -167,10 +167,10 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 - [2.1 - Ansible Variables](./modules/ansible/labs/vars/index.md)
 - [2.2 - Ansible Roles](./modules/ansible/labs/roles/roles_intro.md)
 - [2.3 - Delegate Tasks](./modules/ansible/labs/delegate/index.md)
-- [2.4 - AAP Inventory and Credentials](./modules/ansible/labs/aap-inventory-creds-ad-hoc/index_shared.md)
+- [2.4 - AAP Inventory and Credentials](./modules/ansible/labs/aap-setup/index.md)
 
 ### Day 3
-- [3.1 - AAP Projects and Jobs](./modules/ansible/labs/aap-projects-templates-jobs/index_shared.md)
+- [3.1 - AAP Projects and Jobs](./modules/ansible/labs/aap-projects-templates-jobs/index.md)
 - [3.2 - Ansible Playbook Error Handling](./modules/ansible/labs/error-handling/index.md)
 - [3.3 - Ansible Templates](./modules/ansible/labs/templates/index.md)
 

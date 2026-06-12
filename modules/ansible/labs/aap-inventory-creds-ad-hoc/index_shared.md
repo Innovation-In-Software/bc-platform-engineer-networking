@@ -15,7 +15,7 @@ This exercise will cover
 Access the Dashboard at the URL from the spreadsheet.
 
 
-Log in to the dashboard with the username and the password from the credentials spreadsheet.
+Log in to the dashboard with the username and the password from the credentials spreadsheet AAP tab.
 
 ## Create an Inventory
 
@@ -42,7 +42,7 @@ Click the **Add** button and give a **Name** and **Description**:
 
 * **Name**: Server1-[your initials]
 
-* **Description**: Node 1
+* **Description**: Node from the spreadsheet
 
 * Under **Variables,** confirm **YAML** is highlighted, and then paste the following:
 
@@ -70,7 +70,10 @@ We need to configure the Ansible Automation Platform with the Controller SSH Pri
 
 
 
-In VS Code open `lab.pem` and copy the entire key (including “BEGIN” and “END” lines).
+In the VS Code window that is connected to the Controller, expand `.ssh` and click `id_rsa`
+ 
+Copy the **complete private key** (including “BEGIN” and “END” lines) and save it for the next step.
+ 
 
 
 
