@@ -5,7 +5,7 @@
 ### Step 1: Open the folder
 
 1. Open Visual Studio Code
-2. In a new Visual Studio Code window, click **File** -> **Open Folder** and browse to where you downloaded the `bc-platform-engineer-mainframe` repository.
+2. In a new Visual Studio Code window, click **File** -> **Open Folder** and browse to where you downloaded the `bc-platform-engineer-networking` repository.
 3. After opening the folder, click the third icon in the left toolbar for source control. Next to **changes**, click the three dots and choose **pull**.
 
 
@@ -24,13 +24,13 @@ Add the following lines to the SSH configuration file, replacing `<IP of Tower s
 ```plaintext
 Host tower
   HostName <IP of Tower server from the spreadsheet>
-  IdentityFile "<path-to-bc-platform-engineer-mainframe-repository>/modules/ansible/labs/keys/ansible_lab.pem"
+  IdentityFile "<path-to-bc-platform-engineer-networking-repository>/modules/ansible/labs/keys/ansible_lab.pem"
   User ansible
 ```
 
 Alternatively, you can copy the `ansible_lab.pem` key to your local `.ssh` directory first:
 ```
-cp <path-to-bc-platform-engineer-mainframe-repository>/modules/ansible/labs/keys/ansible_lab.pem ~/.ssh/ansible_lab.pem
+cp <path-to-bc-platform-engineer-networking-repository>/modules/ansible/labs/keys/ansible_lab.pem ~/.ssh/ansible_lab.pem
 ```
 
 And then use a shorter path to `IdentityFile`:
