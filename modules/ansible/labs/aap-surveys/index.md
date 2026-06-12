@@ -144,7 +144,7 @@ This playbook calls the `apache` role which can be found in the [roles directory
 
   
 
-- Inside the role, note the two variables in the `templates/index.html.j2` template file marked by ``.
+- Inside the role, note the two variables in the `templates/index.html.j2` template file marked by `{{ first_line }}` and `{{ second_line }}`.
 - Notice the tasks in `tasks/main.yml` that deploy the file from the template.
 
 

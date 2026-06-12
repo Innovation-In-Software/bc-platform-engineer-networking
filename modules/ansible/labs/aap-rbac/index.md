@@ -29,6 +29,7 @@ Fill in the values for the new user:
 - **Last name**: Web-[your initials]
 - **Email**: wweb-[your initials]@example.com
 - **User type**: Normal user
+- **Organizations**: Default
 
 
 

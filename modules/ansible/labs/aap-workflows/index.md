@@ -135,11 +135,11 @@ Go to **Automation Execution → Templates**, click the **Create template** butt
 
 Click **Create workflow job template**
 
-After saving the template, click the **View workflow visualizer** link on the template details page to open the Workflow Visualizer.
+After saving the template, click the **View workflow visualizer** button on the template details page to open the Workflow Visualizer.
 
-The Workflow Visualizer displays a **Start** node in an otherwise empty canvas. The toolbar at the top contains **Save**, **Add step**, and **Launch workflow** buttons.
+The Workflow Visualizer opens on an empty canvas that reads **There are currently no nodes in this workflow**. The toolbar at the top contains **Save**, **Add step**, and **Launch workflow** buttons.
 
-Click **Add step** to open the node configuration panel.
+Click **Add step** to open the node configuration panel. (A **Start** node appears on the canvas once you add your first node.)
 
 In the **Node details** step, fill in:
 
