@@ -183,3 +183,25 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 
 ### Day 5
 - [Ansible Bonus labs](./modules/ansible/labs/bonus)
+
+## Python Labs
+
+### Day 1: Python Basics
+- [1.1 - Python Command Line Basics](./modules/python/labs/1.1-python-basics.md)
+- [1.2 - VS Code SSH Setup](./modules/python/labs/1.2-vs-code-ssh-setup.md)
+- [1.2 - Python Virtual Environments and Package Management](./modules/python/labs/1.2-python-venv.md)
+- [1.3 - Python Modules and Script Basics](./modules/python/labs/1.3-python-module-basics.md)
+
+### Day 2: Data Structures and OOP
+- [2.1 - Python Data Structures and References](./modules/python/labs/2.1-python-data-structures.md)
+- [2.2 - Python Object-Oriented Programming Basics](./modules/python/labs/2.2-python-oop.md)
+- [2.3 - Generators, Comprehensions, and Decorators](./modules/python/labs/2.3-python-Comprehensions-Generators-Decorators.md)
+
+### Day 3: Error Handling and I/O
+- [3.1 - Python Exception Handling](./modules/python/labs/3.1-python-Exception-Handeling.md)
+- [3.2 - File I/O and Serialization](./modules/python/labs/3.2-python-IO-Serialization.md)
+- [3.3 - PowerShell and Python for Network Tasks](./modules/python/labs/3.3-python-powershell.md)
+
+### Day 4: Networking and Projects
+- [4.1 - Python Socket Programming Basics](./modules/python/labs/4.1-python-sockets.md)
+- [4.2 - Python OOP Web Server Challenge](./modules/python/labs/4.2-python-project.md)
