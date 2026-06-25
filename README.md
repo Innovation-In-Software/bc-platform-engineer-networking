@@ -205,3 +205,54 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 ### Day 4: Networking and Projects
 - [4.1 - Python Socket Programming Basics](./modules/python/labs/4.1-python-sockets.md)
 - [4.2 - Python OOP Web Server Challenge](./modules/python/labs/4.2-python-project.md)
+
+## Infrastructure Automation
+
+### Day 1: GitHub Actions CI/CD
+ - [1.1 - Introduction to GitHub Actions Workflows](./modules/InfraAutomation/labs/1.1-github-workflow.md)
+ - [1.2 - GitHub Actions Docker Build and Push](./modules/InfraAutomation/labs/1.2-github-workflow-docker.md)
+ - [1.3 - GitHub Actions CI/CD Pipeline Enhancements](./modules/InfraAutomation/labs/1.3-github-workflow-enhancements.md)
+ - [1.4 - GitHub OIDC Authentication for AWS](./modules/InfraAutomation/labs/1.4-github-oidc.md)
+
+### Day 2: Jenkins and Deployment
+ - [2.1 - Self-Hosted CI/CD with Jenkins](./modules/InfraAutomation/labs/2.1-jenkins-docker.md)
+ - [2.2 - Manual Deployment to AWS EC2](./modules/InfraAutomation/labs/2.2-manual-deployment.md)
+ - [2.3 - Ansible Configuration Management](./modules/InfraAutomation/labs/2.3-ansible-deployment.md)
+
+### Day 3: Infrastructure as Code with Packer and Terraform
+ - [3.1 - Terraform Multi-AZ Infrastructure Automation](./modules/InfraAutomation/labs/3.1-terraform-infra.md)
+ - [3.2 - Building Golden AMIs with Packer and GitHub Actions](./modules/InfraAutomation/labs/3.2-packer-golden-ami.md)
+ - [3.3 - Terraform Infrastructure with Custom AMI](./modules/InfraAutomation/labs/3.3-terraform-custom-ami.md)
+
+### Day 4: Kubernetes and GitOps
+ - [4.1 - Multi-Environment Zero-Downtime Deployments](./modules/InfraAutomation/labs/4.1-zero-downtime-deployment.md)
+ - [4.2 - GitOps with Kubernetes and Argo CD](./modules/InfraAutomation/labs/4.2-kubernetes-argocd.md)
+ - [4.3 - GitOps Automation with Version Injection](./modules/InfraAutomation/labs/4.3-kubernetes-automations.md)
+
+### Day 5: Advanced GitOps and Disaster Recovery
+ - [5.1 - Blue/Green Deployments with Argo Rollouts](./modules/InfraAutomation/labs/5.1-argocd-blue-green.md)
+ - [5.2 - Hybrid Cloud Disaster Recovery with Multi-Region Redundancy](./modules/InfraAutomation/labs/5.2-data-center-dr.md)
+
+## Scripting APIs Labs
+
+### Day 1: REST & Flask
+- [1.1 - Python REST API](./modules/Scripting-API/1.1-python-rest-api.md)
+- [1.2 - Python Flask](./modules/Scripting-API/1.2-python-flask.md)
+
+### Day 2: API Keys, JWT, HTTPS
+- [2.1 - Python API Keys](./modules/Scripting-API/2.1-python-api-keys.md)
+- [2.2 - Python JWT](./modules/Scripting-API/2.2-python-jwt.md)
+- [2.3 - Python API HTTPS](./modules/Scripting-API/2.3-python-api-https.md)
+- [2.4 - Sample Solution](./modules/Scripting-API/2.4-sample-solution.py)
+
+### Day 3: SOAP & Jinja2
+- [3.1 - Python SOAP](./modules/Scripting-API/3.1-python-soap.md)
+- [3.2 - Python Jinja2](./modules/Scripting-API/3.2-python-jinja2.md)
+
+### Day 4: API Rating, Reverse Proxy, OAuth
+- [4.1 - Python API Rating](./modules/Scripting-API/4.1-python-api-rating.md)
+- [4.2 - Python Reverse Proxy](./modules/Scripting-API/4.2-python-reverse-proxy.md)
+- [4.3 - Python API OAuth](./modules/Scripting-API/4.3-python-api-oauth.md)
+
+### Day 5: API Project
+[5.0 - Python API Project](./modules/Scripting-API/5.0-python-api-project.md)
