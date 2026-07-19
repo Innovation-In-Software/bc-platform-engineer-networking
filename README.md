@@ -256,3 +256,31 @@ This repository contains the files for the Platform Engineer Networking bootcamp
 
 ### Day 5: API Project
 [5.0 - Python API Project](./modules/Scripting-API/5.0-python-api-project.md)
+
+## Monitoring Labs
+
+### Day 1: Monitoring Fundamentals
+
+- [1.1 - Grafana](./modules/Monitoring/labs/1.1-grafana.md)
+- [1.2 - API Telemetry](./modules/Monitoring/labs/1.2-api-telemetry.md)
+- [1.3 - Loki](./modules/Monitoring/labs/1.3-loki.md)
+- [1.4 - K8s Lab Environment](./modules/Monitoring/labs/1.4-k8s-lab-env.md)
+
+### Day 2: Prometheus & Kubernetes
+
+- [2.1 - PromQL](./modules/Monitoring/labs/2.1-promql.md)
+- [2.2 - K8s Lab Info](./modules/Monitoring/labs/2.2-k8s-lab-info.md)
+- [2.3 - Custom Metrics](./modules/Monitoring/labs/2.3-custom-metrics.md)
+
+### Day 3: Dashboards & Alerts
+
+- [3.1 - Advanced Dashboard](./modules/Monitoring/labs/3.1-advanced-dashboard.md)
+- [3.2 - Alerts](./modules/Monitoring/labs/3.2-alerts.md)
+- [3.3 - Exporters](./modules/Monitoring/labs/3.3-exporters.md)
+
+### Day 4: Observability & OTEL
+
+- [4.1 - Deploy API](./modules/Monitoring/labs/4.1-deploy-api.md)
+- [4.2 - OTEL](./modules/Monitoring/labs/4.2-OTEL.md)
+
+## 
