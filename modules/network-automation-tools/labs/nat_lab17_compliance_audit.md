@@ -1,4 +1,4 @@
-# Lab 11 – Compliance Audit and Reporting
+# Lab 18 – Compliance Audit and Reporting
 
 **Course:** Network Automation Tools — Day 3 (Capstone)  
 **Prerequisite:** Lab 10 complete — `Loopback1` configured on both routers from the Jinja2 template (`Site A loopback` / `Site B loopback`), RESTCONF enabled from Lab 9, `~/python-lab` venv with Netmiko, NAPALM and `requests` installed  
