@@ -1,7 +1,7 @@
 # Lab 18 – Compliance Audit and Reporting
 
 **Course:** Network Automation Tools — Day 3 (Capstone)  
-**Prerequisite:** Lab 10 complete — `Loopback1` configured on both routers from the Jinja2 template (`Site A loopback` / `Site B loopback`), RESTCONF enabled from Lab 9, `~/python-lab` venv with Netmiko, NAPALM and `requests` installed  
+**Prerequisite:** Lab 17 complete — `Loopback1` configured on both routers from the Jinja2 template (`Site A loopback` / `Site B loopback`), RESTCONF enabled from Lab 9, `~/python-lab` venv with Netmiko, NAPALM and `requests` installed  
 **Objective:** Tie the whole day together. Describe the network's intended state in YAML, collect its actual state with NAPALM, compare the two, cross-check one fact independently over RESTCONF, and produce a report and an exit code a scheduler can act on.
 
 ---
