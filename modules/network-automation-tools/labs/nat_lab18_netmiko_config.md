@@ -1,4 +1,4 @@
-# Lab 10 – Config Changes with Netmiko and Jinja2
+# Lab 17 – Config Changes with Netmiko and Jinja2
 
 **Course:** Network Automation Tools — Day 3  
 **Prerequisite:** Labs 7–9 complete — `~/python-lab` with a virtual environment and Netmiko installed; both routers reachable with the `ansible` / `Cisco123!` login from Lab 1  
